@@ -5,4 +5,3 @@ This documentation is for MBARI's Media Management system. Used by MBARI for tra
 ## Overview
 
 [![Overview Diagram](assets/images/M3SimpleDeployment.jpg)](files/M3SimpleDeployment.pdf)
-[PDF](files/M3SimpleDeployment.pdf)
