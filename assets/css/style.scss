@@ -11,6 +11,8 @@
     color: #324349;
 }
 
-@media screen .main-content {
-    max-width: 80%;
+@media screen and (min-width: 64em) {
+    .main-content {
+        max-width: 80%;
+    }   
 }
