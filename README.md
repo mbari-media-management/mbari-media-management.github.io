@@ -22,7 +22,7 @@ M3 includes several applications that are being developed to support video annot
 
 - [vars-annotation](https://github.com/mbari-media-management/vars-annotation) - A video annotation application
 - [vars-kb](https://github.com/mbari-media-management/vars-kb) - An applicatino for managing the knowledgebase data.
-- [Shartopoda](https://github.com/mbari-media-management/Sharktopoda) - A macOS video player that integrates with vars-annotation.
+- [Sharktopoda](https://github.com/mbari-media-management/Sharktopoda) - A macOS video player that integrates with vars-annotation.
 
 ### Libraries
 
