@@ -1,8 +1,37 @@
 # MBARI Media Management (M3)
 
-This documentation is for MBARI's Media Management system. Used by MBARI for tracking and annotating video files.
+MBARI's Media Management system (M3) is an evolution of MBARI's [Video Annotation and Reference System (VARS)](https://hohonuuli.github.io/vars/). It is specifically focused on managing digital video collections and annotations for scientific purposes.
 
 ## Overview
+
+### Microservices
+
+M3 is based around a collection of [RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer) [microservices](https://martinfowler.com/articles/microservices.html). MBARI has developed  microservices for:
+
+- [Video asset management](https://github.com/mbari-media-management/vampire-squid)
+- [Annotation managment](https://github.com/mbari-media-management/annosaurus)
+- [Knowledgebase](https://github.com/mbari-media-management/vars-kb-server) for constraining annotations.
+- [User managment](https://github.com/mbari-media-management/vars-user-server) to track annotators.
+- [Image management](https://github.com/mbari-media-management/panoptes)
+
+These microservices are each independant and can be mixed and matched for your own video applications.
+
+### Applications
+
+M3 includes several applications that are being developed to support video annotations. These include:
+
+- [vars-annotation](https://github.com/mbari-media-management/vars-annotation) - A video annotation application
+- [vars-kb](https://github.com/mbari-media-management/vars-kb) - An applicatino for managing the knowledgebase data.
+- [Shartopoda](https://github.com/mbari-media-management/Sharktopoda) - A macOS video player that integrates with vars-annotation.
+
+### Libraries
+
+To support our application development, MBARI has created the following [Java-based](https://www.java.com) libraries:
+
+- [vcr4j](https://github.com/mbari-media-management/vcr4j) - A Java API for communicating with video 'devices'
+- [vars-avfoundation](https://github.com/mbari-media-management/vars-avfoundation) - A Java API for native image capture on macOS.
+
+## Diagrams
 
 [![Overview Diagram](assets/images/M3SimpleDeployment.jpg)](files/M3SimpleDeployment.pdf)
 
