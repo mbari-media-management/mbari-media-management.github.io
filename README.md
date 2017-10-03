@@ -1,5 +1,7 @@
 # MBARI Media Management (M3)
 
+[![MBARI logo](assets/images/logo-mbari-3b.png)](http://www.mbari.org)
+
 MBARI's Media Management system (M3) is an evolution of MBARI's [Video Annotation and Reference System (VARS)](https://hohonuuli.github.io/vars/). It is specifically focused on managing digital video collections and annotations for scientific purposes.
 
 ## Overview
