@@ -20,4 +20,4 @@ You will now have the VARS/M3 microservices up and running on your machine. This
 
 ## Customizing Setup
 
-It's easy. The detailed docs will be _coming real soon ..._
+It's easy to configure the services for your own database. The detailed docs will be _coming real soon ..._
