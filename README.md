@@ -16,7 +16,8 @@ M3 is based around a collection of [RESTful](https://en.wikipedia.org/wiki/Repre
 - [User managment](https://github.com/mbari-media-management/vars-user-server) to track annotators.
 - [Image management](https://github.com/mbari-media-management/panoptes)
 
-These microservices are each independant and can be mixed and matched for your own video applications.
+These microservices are each independant and can be mixed and matched for your own video applications. For development and simple deployments follow our [microservice guide](MICROSERVICES). 
+
 
 ### Applications
 
