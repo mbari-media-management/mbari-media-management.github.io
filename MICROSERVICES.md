@@ -4,7 +4,8 @@
 
 1. Install [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/).
 2. Clone the [m3-microservices](https://github.com/mbari-media-management/m3-microservices) repository and build the images:
-```
+
+```bash
 git clone https://github.com/mbari-media-management/m3-microservices.git
 cd m3-microservices
 
