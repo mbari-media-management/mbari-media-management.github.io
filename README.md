@@ -42,3 +42,12 @@ To support our application development, MBARI has created the following [Java-ba
 
 If this diagram causes a `WTF?` moment, you may want to read '[The non-techie's guide to servers](https://hackernoon.com/the-non-techies-guide-to-servers-af1fa3dbf7d8)'
 
+## Thanks
+
+This project is support by:
+
+- [Monterey Bay Aquarium Research Institute](https://www.mbari.org/)
+
+Thanks to the following companies for their contributions:
+
+- [AquaFold](https://www.aquafold.com/)
