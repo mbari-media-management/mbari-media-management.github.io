@@ -36,6 +36,10 @@ To support our application development, MBARI has created the following [Java-ba
 - [vcr4j](https://github.com/mbari-media-management/vcr4j) - A Java API for communicating with video 'devices'
 - [vars-avfoundation](https://github.com/mbari-media-management/vars-avfoundation) - A Java API for native image capture on macOS.
 
+## Workshops
+
+- [Big Ocean, Big Data Workshop](BOBD.md)
+
 ## Diagrams
 
 [![Overview Diagram](assets/images/M3SimpleDeployment.jpg)](files/M3SimpleDeployment.pdf)
