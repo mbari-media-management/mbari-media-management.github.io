@@ -38,6 +38,7 @@ To support our application development, MBARI has created the following [Java-ba
 
 ## Workshops
 
+- [Presentation at IMDIS 2018](https://youtu.be/W5s8tNlZWhE)
 - [Big Ocean, Big Data Workshop](BOBD.md)
 
 ## Diagrams
