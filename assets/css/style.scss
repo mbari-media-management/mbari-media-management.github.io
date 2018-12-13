@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 
 .page-header {
     // background-image: linear-gradient(120deg, #324349, #486371);
@@ -25,7 +22,6 @@
 
 @media screen {
     .main-content {
-        // max-width: none;
-        max-width: 1000px;
+        max-width: none;
     }
 }
