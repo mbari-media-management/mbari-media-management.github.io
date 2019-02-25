@@ -53,6 +53,7 @@ This project is support by:
 
 - [Monterey Bay Aquarium Research Institute](https://www.mbari.org/)
 
-Thanks to the following companies for their contributions:
+A big, hearty thanks to the following companies for providing licenses to support open-source and non-profit software development:
 
 - [AquaFold](https://www.aquafold.com/)
+- [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html)
