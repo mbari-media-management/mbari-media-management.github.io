@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
+logo: "/assets/images/logo-mbari-3b.png"
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+# Aux links for the upper right navigation
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
+heading_anchors: true
+color_scheme: "dark"
