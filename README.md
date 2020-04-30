@@ -47,12 +47,14 @@ To support our application development, MBARI has created the following [Java-ba
 
 If this diagram causes a `WTF?` moment, you may want to read '[The non-techie's guide to servers](https://hackernoon.com/the-non-techies-guide-to-servers-af1fa3dbf7d8)'
 
-## Thanks
+## Acknowledgements
 
-This project is support by:
+This project is funded by:
 
 - [Monterey Bay Aquarium Research Institute](https://www.mbari.org/)
+- [The David and Lucile Packard Foundation](https://www.packard.org/)
 
-Thanks to the following companies for their contributions:
+A big, hearty thanks to the following companies for providing licenses for their products. Their support of open-source and non-profit software development is extremely valuable and greatly appreciated.
 
 - [AquaFold](https://www.aquafold.com/)
+- [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html)
