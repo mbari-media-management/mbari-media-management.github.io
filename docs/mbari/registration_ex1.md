@@ -201,15 +201,13 @@ Note: annosaurus normally assigns most UUID's for you. However, you can define t
         "link_name": "comment",
         "link_value": "Somre additional explanation text",
         "to_concept": "self",
-        "mime_type": "text/plain",
-        "uuid": "3c52e0a6-da2d-43df-0c66-d321495aa81e"
+        "mime_type": "text/plain"
       },
       {
         "link_name": "project",
         "link_value": "VAA",
         "to_concept": "self",
         "mime_type": "text/plain",
-        "uuid": "7d9d3b23-b74f-44a7-0d66-d321495aa81e"
       }
     ]
   }
