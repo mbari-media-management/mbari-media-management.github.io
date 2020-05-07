@@ -88,7 +88,7 @@ Next, See if that's already set in the media:
 }
 ```
 
-Finally, if not set correctly, set the creation_time using ffmpeg. Here's and example: `ffmpeg -i V4066_20170822T135738Z_h264.mp4 -metadata creation_time="2029-05-02 22:01:04" -codec copy VID_trashme.mp4`. Note that will generate a new copy of the video. 
+Finally, if not set correctly, set the creation_time using ffmpeg. Here's and example: `ffmpeg -i V4066_20170822T135738Z_h264.mp4 -metadata creation_time="2029-05-02T22:01:04Z" -codec copy VID_trashme.mp4`. Two things to note: 1) that will generate a new copy of the video and 2) Use an [iso8601 timestamp](https://www.w3.org/TR/NOTE-datetime) which will correctly set to UTC, [non-iso8601 timestamps will be interpreted as local time zone](https://trac.ffmpeg.org/ticket/5673).
 
 #### Step 2: Registering a video
 
