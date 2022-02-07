@@ -1,4 +1,4 @@
-# MBARI Media Management (M3)
+# M3 Components
 
 [![MBARI logo](assets/images/logo-mbari-3b.png)](http://www.mbari.org)
 
